@@ -1,4 +1,7 @@
 export default {
+  server: {
+    host: '0.0.0.0' // デフォルト: localhost
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Read-Recode-On-Nuxt',
